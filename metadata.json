@@ -1,0 +1,7 @@
+{
+  "name": "Studio AI - Product Photo Editor",
+  "description": "A professional AI-powered tool for creating and enhancing product photos with customizable backgrounds, moods, and aspect ratios.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
